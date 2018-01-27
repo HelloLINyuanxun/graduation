@@ -1,0 +1,3 @@
+
+/** windows中的换行符为 CRLF， 而在Linux下的换行符为LF，设置为不自动转换/
+git config core.autocrlf false 
